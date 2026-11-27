@@ -1,0 +1,59 @@
+{
+  "classes": [
+    {
+      "id": 0,
+      "name": "Car",
+      "description": "Sedan, SUV, minivan, xe 7 chỗ, bán tải, taxi, xe điện du lịch, xe cứu thương dạng van."
+    },
+    {
+      "id": 1,
+      "name": "Bus",
+      "description": "Xe buýt, xe khách từ 16 chỗ trở lên. Xe 9-15 chỗ thuộc Ô tô con."
+    },
+    {
+      "id": 2,
+      "name": "Truck",
+      "description": "Xe tải các cỡ, xe ben, xe bồn, xe cứu hỏa, đầu kéo (chỉ phần cabin và thân đầu kéo)."
+    },
+    {
+      "id": 3,
+      "name": "Other vehicle",
+      "description": "Ba gác máy, xích lô, xe lam, xe công trình, xe máy cày, rơ-moóc và sơ-mi rơ-moóc, mọi phương tiện không thuộc lớp khác."
+    },
+    {
+      "id": 4,
+      "name": "Motorcycle",
+      "description": "Xe máy, xe tay ga, xe điện 2 bánh kiểu xe máy, không có người ngồi (đang đỗ hoặc đang dắt)."
+    },
+    {
+      "id": 5,
+      "name": "Motorcyclist",
+      "description": "Xe máy có ít nhất một người ngồi: một instance duy nhất phủ cả xe và mọi người trên xe."
+    },
+    {
+      "id": 6,
+      "name": "Bicycle",
+      "description": "Xe đạp, xe đạp điện kiểu xe đạp, không có người (đang đỗ hoặc đang dắt)."
+    },
+    {
+      "id": 7,
+      "name": "Cyclist",
+      "description": "Xe đạp có người đi: một instance duy nhất phủ cả xe đạp và người."
+    },
+    {
+      "id": 8,
+      "name": "Pedestrian",
+      "description": "Mọi người không ngồi trên phương tiện: đi bộ, đứng, ngồi, trẻ em, người dắt xe."
+    },
+    {
+      "id": 9,
+      "name": "Sign",
+      "description": "Biển báo hiệu đường bộ, biển chỉ dẫn, biển công trường. Chỉ phủ mặt biển, không phủ cột."
+    },
+    {
+      "id": 10,
+      "name": "Traffic light",
+      "description": "Cả hộp đèn tín hiệu (xe cộ, người đi bộ), không chỉ bóng đang sáng."
+    }
+  ]
+}
